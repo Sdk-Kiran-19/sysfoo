@@ -30,7 +30,7 @@
 							</div>
 						<div class="content">
 							<div class="inner">
-								<h1>version 721221114020 </h1>
+								<h1>version Kiran </h1>
 								<h2>SYSTEM INFO</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
